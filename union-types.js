@@ -13,4 +13,4 @@
     }
     greeting('Test2');
     greeting(12);
-});
+})();
